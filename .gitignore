@@ -1,0 +1,6 @@
+.env
+/node_modules
+runScript.txt
+Dockerfile
+ingress.yaml
+mafinest.yaml
